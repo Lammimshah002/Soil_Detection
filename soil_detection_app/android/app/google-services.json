@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968190746587",
+    "project_id": "my-firebase-project-fafc4",
+    "storage_bucket": "my-firebase-project-fafc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968190746587:android:6ff3c7db42389efb5751fe",
+        "android_client_info": {
+          "package_name": "com.example.soil_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzkav8L3hdzNHGRZNkI2m82xmpg-vfjhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
